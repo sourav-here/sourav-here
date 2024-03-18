@@ -40,6 +40,6 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.WfuEo08EeD9CxbAl4raGeQHaHa&pid=Api&P=0&h=180" alt="redux" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.zOhSCHNGruK-JQcRbtQveQAAAA&pid=Api&P=0&h=180" alt="redux" width="40" height="40"/> </a></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjmalOP&show_icons=true&locale=en&layout=compact" alt="AjmalOP" /></p><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AjmalOP&show_icons=true&locale=en" alt="AjmalOP" /></p><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AjmalOP&" alt="AjmalOP" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorav-here&show_icons=true&locale=en&layout=compact" alt="AjmalOP" /></p><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sorav-here&show_icons=true&locale=en" alt="AjmalOP" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sorav-here&" alt="AjmalOP" /></p>
