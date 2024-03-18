@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/sourav-raj-839778291" target="blank"><img src="https://img.shields.io/twitter/follow/sourav-here?logo=linkedin&style=for-the-badge" alt="Sourav Raj" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Application](https://ajmalop.github.io/woodcurl/) 
+- 🔭 I’m currently working on [Flutter Application]
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjmalOP]
 
