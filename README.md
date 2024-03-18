@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ajmal OP</h1>
+<h1 align="center">Hi 👋, I'm Sourav Raj</h1>
 <h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | .Net </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
