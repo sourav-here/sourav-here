@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://x.com/souraveeeii?t=wl1nzUiPIVEDR8rL-FJ1HA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajmalop" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sourav-raj-839778291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmalop" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/ajmalop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ajmalop" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100077094826916&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajmalop" height="30" width="40" /></a>
 <a href="https://instagram.com/sourav_.here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajmalop" height="30" width="40" /></a>
 </p>
